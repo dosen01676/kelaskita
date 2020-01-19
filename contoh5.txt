@@ -1,1 +1,2 @@
 File contoh5.txt
+tambahan isi file contoh5.txt
